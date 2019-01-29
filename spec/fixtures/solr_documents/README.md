@@ -4,10 +4,10 @@ If you add a new document, please add it to the table below, and indicate its pu
 
 | document | purpose |
 | -------- | ------- |
-| actual-papermap1.json |  |
-| actual-point1.json |  |
-| actual-polygon1.json |  |
-| actual-raster1.json |  |
+| actual-papermap1.json |"Paper Map" icon with an external landing page reference only|
+| actual-point1.json |Point shapefile with landing page, direct download, WMS and WFS|
+| actual-polygon1.json |Polygon dataset (no direct download) with WFS, WMS, and FGDC metadata as XML|
+| actual-raster1.json |Restricted Raster|
 | baruch_ancestor1.json |  |
 | baruch_ancestor2.json |  |
 | baruch_documentation_download.json |  |
