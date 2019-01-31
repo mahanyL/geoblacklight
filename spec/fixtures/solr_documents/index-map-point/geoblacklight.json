@@ -1,0 +1,47 @@
+{
+  "dc_identifier_s": "cornell-ny-aerial-photos-1960s",
+  "dc_rights_s": "Public",
+  "dc_title_s": "New York Aerial Photos (1960s)",
+  "dct_provenance_s": "Cornell",
+  "geoblacklight_version": "1.0",
+  "layer_slug_s": "index-map-point",
+  "solr_geom": "ENVELOPE(-74.783, -74.733, 40.20, 40.166)",
+  "solr_year_i": 0,
+  "dc_creator_sm": [
+    "Jane Doe"
+  ],
+  "dc_description_s": "Point OpenIndexMap with GeoJSON download",
+  "dc_format_s": "GeoJSON",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_publisher_sm": [
+    "The Publisher"
+  ],
+  "dc_source_sm": [
+
+  ],
+  "dc_subject_sm": [
+    "Aerial photographs",
+    "Index maps"
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dct_isPartOf_sm": [
+    "Fixture Records"
+  ],
+  "dct_issued_s": "1960",
+  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenIndexMaps/edu.cornell/master/ny-aerial-photos-1960s.geojson\",\"http://schema.org/downloadUrl\":\"https://raw.githubusercontent.com/OpenIndexMaps/edu.cornell/master/ny-aerial-photos-1960s.geojson\"}",
+  "dct_spatial_sm": [
+    "New York"
+  ],
+  "dct_temporal_sm": [
+
+  ],
+  "layer_geom_type_s": "Point",
+  "layer_id_s": [
+
+  ],
+  "layer_modified_dt": ""
+}

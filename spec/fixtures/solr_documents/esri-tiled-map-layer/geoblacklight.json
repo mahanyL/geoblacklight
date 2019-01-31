@@ -1,0 +1,44 @@
+{
+  "dc_identifier_s": "test-soil-survey-map",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Soil Survey Geographic (SSURGO)",
+  "dct_provenance_s": "NYU",
+  "geoblacklight_version": "1.0",
+  "layer_slug_s": "esri-tiled-map-layer",
+  "solr_geom": "ENVELOPE(-129.4956, -64.4393, 48.6336, 21.8079)",
+  "solr_year_i": 2010,
+  "dc_creator_sm": [
+
+  ],
+  "dc_description_s": "ArcGIS tiled map layer",
+  "dc_format_s": "GeoTIFF",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_publisher_sm": [
+    "United States Department of Agriculture, Natural Resources Conservation Service"
+  ],
+  "dc_source_sm": [
+
+  ],
+  "dc_subject_sm": [
+
+  ],
+  "dc_type_sm": [
+    "Dataset"
+  ],
+  "dct_isPartOf_sm": [
+    "Fixture Records"
+  ],
+  "dct_issued_s": "",
+  "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#TiledMapLayer\": \"http://services.arcgisonline.com/arcgis/rest/services/Specialty/Soil_Survey_Map/MapServer\"}",
+  "dct_spatial_sm": [
+
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "test-soil-survey_map",
+  "layer_modified_dt": "2015-06-16T00:59:49Z"
+}
