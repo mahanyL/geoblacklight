@@ -32,4 +32,7 @@ If you add a new document, please add it to the table below, and indicate its pu
 | public_iiif_princeton |Scanned map with IIIF|
 | public_polygon_mit |Polygon shapefile with WMS and WFS|
 | restricted-line |Restricted line layer with WFS, WMS and metadata in MODS and ISO 19139|
-| uvs-colon-slug | Multipoint dataset with WMS and WFS and a colon in the slug and layer ID |
+| umn-metro-result1 |Bounding box of metropolitan area and ArcGIS Dynamic Map Layer|
+| umn-state-result1 |Bounding box of state area and static image in references|
+| umn-state-result2 |Bounding box of state area and raster download|
+| uva:slug | Multipoint dataset with WMS and WFS and a colon in the slug and layer ID |
